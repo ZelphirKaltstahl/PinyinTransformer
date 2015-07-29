@@ -1,0 +1,8 @@
+# private idea files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/*dataSources.ids
+.idea/*datasources.xml
+.idea/*gradle.xml
+.idea/dictionaries
+.idea/*.iws
